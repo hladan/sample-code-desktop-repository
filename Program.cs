@@ -7,6 +7,7 @@ namespace sample_code_desktop_repository
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World Hamed!");
         }
     }
 }
