@@ -1,0 +1,11 @@
+c:\Users\VAIO\Documents\GitHub\sample-code-desktop-repository\bin\Debug\netcoreapp3.1\sample-code-desktop-repository.exe
+C:\Users\VAIO\Documents\GitHub\sample-code-desktop-repository\bin\Debug\netcoreapp3.1\sample-code-desktop-repository.deps.json
+C:\Users\VAIO\Documents\GitHub\sample-code-desktop-repository\bin\Debug\netcoreapp3.1\sample-code-desktop-repository.runtimeconfig.json
+C:\Users\VAIO\Documents\GitHub\sample-code-desktop-repository\bin\Debug\netcoreapp3.1\sample-code-desktop-repository.runtimeconfig.dev.json
+c:\Users\VAIO\Documents\GitHub\sample-code-desktop-repository\bin\Debug\netcoreapp3.1\sample-code-desktop-repository.dll
+c:\Users\VAIO\Documents\GitHub\sample-code-desktop-repository\bin\Debug\netcoreapp3.1\sample-code-desktop-repository.pdb
+c:\Users\VAIO\Documents\GitHub\sample-code-desktop-repository\obj\Debug\netcoreapp3.1\sample-code-desktop-repository.csprojAssemblyReference.cache
+c:\Users\VAIO\Documents\GitHub\sample-code-desktop-repository\obj\Debug\netcoreapp3.1\sample-code-desktop-repository.AssemblyInfoInputs.cache
+c:\Users\VAIO\Documents\GitHub\sample-code-desktop-repository\obj\Debug\netcoreapp3.1\sample-code-desktop-repository.AssemblyInfo.cs
+c:\Users\VAIO\Documents\GitHub\sample-code-desktop-repository\obj\Debug\netcoreapp3.1\sample-code-desktop-repository.dll
+c:\Users\VAIO\Documents\GitHub\sample-code-desktop-repository\obj\Debug\netcoreapp3.1\sample-code-desktop-repository.pdb
